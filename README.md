@@ -3,10 +3,12 @@ speedtest CLI openwrt
 
 Copy ke terminal / ttyd dan jalankan :
 
+
 opkg update
+
 wget -O /usr/bin/speedtest https://github.com/planetmina/speedtest/raw/main/speedtest && chmod +x /usr/bin/speedtest
 
-Enter.
+
 
 jalankan perintah di terminal :
 
